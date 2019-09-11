@@ -1,0 +1,3 @@
+Para ejecutar el proyecto, usar Jupyter Notebook y abrir el fichero Hitori.ipynb.
+Una vez abierto, ejecutar todos los bloques de código (se explica con detalle lo que hay en cada bloque en el mismo archivo).
+El último bloque de código contiene la llamada a la función para probar. Se podrá elegir una línea del fichero para realizar la lectura de la matriz o escribir directamente la matriz en caso de querer probar otra.
